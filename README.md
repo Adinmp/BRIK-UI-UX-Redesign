@@ -1,2 +1,2 @@
 # BRIK-UI-UX-Redesign
-It's repository for skill test for UI/UX position at BRIK
+A library of assessments for UI/UX roles at BRIK.
